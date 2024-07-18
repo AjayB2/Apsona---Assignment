@@ -1,70 +1,29 @@
-# Getting Started with Create React App
+Assignment Details
+You need to build a desktop web application for keeping notes. You can draw inspiration from Google Keep. Here are the features that you need to build:
+User Authentication and content sync
+Menu Features to contain
+Create a new note
+Search in your notes
+Special view - Label View [all tagged notes with that label]
+Archived Notes
+One note can have multiple tags [up to 9 tags]
+You should be able to toggle between background colors for the note
+Trash Notes - Deleted notes in the last 30 days
+Frameworks & Constraints
+Use NodeJS for backend APIs and setup user authentication & user profile. 
+We want you to build the frontend application without the use of any frontend framework. 
+You are allowed to use jQuery if you wish. 
+For backend, You can use NodeJS or any other JS backend framework. 
+Bonus Points
+Special View - Reminder [view all notes with an upcoming due date]
+Bonus point for submitting a video demo explaining the functionality of your app
+Submission & Allocated Time
+It’s a self paced assignment and no restrictions on usage of Google/ ChatGPT but you should own the code submitted for your final evaluation. Ideally, you should spend 6-8 hours for the assignment if you have worked in NodeJS (Authentication & CRUD operations) but if it takes more time, you are free to spend as much time needed to complete the assignment. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Please ensure to deploy your code on a public link for the reviewer to view your assignment.
 
-## Available Scripts
+Please note that you will have the ownership of the code submission and you are free to use it in your resume/ github profile/ etc. 
 
-In the project directory, you can run:
+Note
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+There are no restrictions on tools or resources; the main requirement is that you understand and can explain your implementation. Use Node.js for backend, and vanilla HTML/CSS/JavaScript or React for frontend.
